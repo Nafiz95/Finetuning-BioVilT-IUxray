@@ -6,4 +6,5 @@ Special thanks to ChatGPT for giving me wrong directions and landing me on pile 
 Cite following (lazy to get bib tex)
 1. BioVil Paper
 2. CheXbert Paper
-3. Me :D 
+3. IU-Xray dataset
+4. Me :D 
