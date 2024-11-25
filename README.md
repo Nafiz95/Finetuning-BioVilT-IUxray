@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/Nafiz95/Finetuning-BioVilT-IUxray/blob/main/zeroshot_grad_shap.png))
+![alt text](https://github.com/Nafiz95/Finetuning-BioVilT-IUxray/blob/main/zeroshot_grad_shap.png?raw=true)
 # Finetuning-BioVilT-IUxray
 Finetuning Microsoft's BioVil-T on IUXray dataset for RRG
 
