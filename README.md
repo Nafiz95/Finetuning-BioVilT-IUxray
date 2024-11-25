@@ -8,3 +8,5 @@ Cite following (lazy to get bib tex)
 2. CheXbert Paper
 3. IU-Xray dataset
 4. Me :D 
+
+<img src="pic_trulli.jpg" alt="Italian Trulli">
