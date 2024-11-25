@@ -1,3 +1,6 @@
+
+<img src="[pic_trulli.jpg](https://github.com/Nafiz95/Finetuning-BioVilT-IUxray/blob/main/zeroshot_grad_shap.png)" alt="IMAGE">
+
 # Finetuning-BioVilT-IUxray
 Finetuning Microsoft's BioVil-T on IUXray dataset for RRG
 
@@ -8,5 +11,3 @@ Cite following (lazy to get bib tex)
 2. CheXbert Paper
 3. IU-Xray dataset
 4. Me :D 
-
-<img src="pic_trulli.jpg" alt="Italian Trulli">
